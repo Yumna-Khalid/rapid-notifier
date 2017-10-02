@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../PushRapidNotifierlatest/plugins/com.phonegap.plugins.PushPlugin/src/android/com/plugin/gcm/GCMIntentService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../PushRapidNotifierlatest/www/js/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../PushRapidNotifierlatest/www/templates/Announcements.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../PushRapidNotifierlatest/www/templates/DetailNote.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../PushRapidNotifierlatest/www/templates/Notifications.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../PushRapidNotifierlatest/www/templates/StdLecture.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../PushRapidNotifierlatest/www/templates/StdlecDownload.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../PushRapidNotifierlatest/www/templates/file.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../PushRapidNotifierlatest/www/templates/rooms.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../PushRapidNotifierlatest/www/templates/startup.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../PushRapidNotifierlatest/www/templates/stdprofile.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../PushRapidNotifierlatest/www/templates/teacAnn.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../PushRapidNotifierlatest/www/templates/teacDetailAnn.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../PushRapidNotifierlatest/www/templates/teacDetailNote.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../PushRapidNotifierlatest/www/templates/teacNote.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../PushRapidNotifierlatest/www/templates/teachome.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../PushRapidNotifierlatest/www/templates/teacprofile.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../RapidNotifierWithoutpush/www/templates/home.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../RapidNotifierlatest/www/js/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../RapidNotifierlatest/www/js/controller.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../RapidNotifierlatest/www/templates/DetailNote.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../RapidNotifierlatest/www/templates/Notifications.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../RapidNotifierlatest/www/templates/home.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../RapidNotifierlatest/www/templates/login.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../TRH-admin-master/www/templates/AdminHome.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../TRH-admin-master/www/templates/NewEvent.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mfile/www/js/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mfile/www/js/controllers.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/package.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rapidnotifier-Admin/www/css/style.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rapidnotifier-Admin/www/js/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rapidnotifier-Admin/www/js/controller.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rapidnotifier-Admin/www/templates/AdminHome.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rapidnotifier-Admin/www/templates/DetailNote.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rapidnotifier-Admin/www/templates/NewAnnouncement.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rapidnotifier-Admin/www/templates/NewEvent.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rapidnotifier-Admin/www/templates/Notifications.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../scanner/www/js/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../try/www/templates/newMessage.html" charset="UTF-8" />
+  </component>
+</project>
